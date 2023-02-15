@@ -7,6 +7,7 @@ from datetime import date,datetime, timedelta
 import pyodbc
 import pandas as pd
 from bs4 import BeautifulSoup
+#er
 
 def crear_conexion_SQL():
     """Establecer la conexión con el servidor SQL."""
